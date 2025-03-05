@@ -1,0 +1,3 @@
+git lfs install
+git lfs track "*.exe"  # Track the executable
+git add .gitattributes
